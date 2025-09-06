@@ -74,8 +74,8 @@ Each email's:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ShyamSanjeyS/spam-mail-classifier.git
-cd spam-mail-classifier
+git clone https://github.com/ShyamSanjeyS/Naive-Bayes-Spam-Mail-Detector.git
+cd Naive-Bayes-Spam-Mail-Detector
 
 # Install dependencies
 pip install numpy scikit-learn nltk
